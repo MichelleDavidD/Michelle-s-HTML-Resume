@@ -1,0 +1,45 @@
+body {
+    background-color: #ffccff;
+    background-image: url= "https://imgs.michaels.com/MAM/assets/1/726D45CA1C364650A39CD1B336F03305/img/841DB6F63F794BBCB02A0DC8772310E1/10125128.jpg?" alt=polka dots;}
+  
+    #introduction {
+        color: rgb(216, 104, 166);
+        font-family: 'Montserrat', 'Nanum Gothic', 'Playfair Display', serif;
+        margin-left: 20px;
+    }
+
+    #Contact-info {
+
+        color: rgb(216, 104, 166);
+        font-family: 'Montserrat', 'Nanum Gothic', 'Playfair Display', serif;
+        margin-left: 20px;   
+    }
+
+    #Contact-info a href { color: rgb(216, 104, 166);
+      font-family: 'Montserrat', 'Nanum Gothic', 'Playfair Display', serif;
+    }
+
+  .all-font {
+    color: rgb(235, 125, 185);
+    font-family: 'Montserrat', 'Nanum Gothic', 'Playfair Display', serif;
+    margin-left: 1000;
+    margin-bottom: 100;
+    /*enter box here to put about me*/
+  }
+  .all-font h2 {
+      margin-top: 20px;
+      margin-left: 10px;
+      font-size: 30px;
+  }
+
+  .box {
+      border: 10px solid white;
+      margin: 10px;
+      background-color: rgb(255, 225, 251);
+      
+  }
+  
+  .container {
+    margin-left: 300px;
+    margin-right: 100px;
+  }
